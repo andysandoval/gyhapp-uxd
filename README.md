@@ -14,7 +14,7 @@ Members: [**Andy Sandoval**](https://github.com/andysandoval)
 Team members in charge of identifying the product needs and requirements. They are responsible for the process related to acquiring and interpreting the information that is valuable for the project development like defining personas, functionality definition and proposals formalization.
 
 ## Designer:
-Member: [**Luis Martínes**](https://github.com/LX699)
+Member: [**Luis Martínez**](https://github.com/LX699)
 
 Team member in charge of the main content that is going to be evaluated in the project. Responsible for the design process, planification, and interface creation. This task can be the creation of wireframes, mockups and the result of these as a finished interface.
 
