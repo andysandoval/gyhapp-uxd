@@ -32,6 +32,9 @@ The first step to finding the problem and a solution was to make a value proposi
 ## UX_Persona
 
 After defining our product strategy, is important to define a scope.  To help us, we create 3 UX_Persona, they were the ideal customer for our app and this helped us to define the scope of design.
+![UX Person 1](deliverables/UX Person/UX Person 1.png)
+![UX Person 2](deliverables/UX Person/UX Person 2.png)
+![UX Person 3](deliverables/UX Person/UX Person 3.png)
 
 ## User Journey Map
 
@@ -41,6 +44,7 @@ By using the UX Persona tool, we were able to understand what are the main needs
 
 Then, we made a Benchmarking, looking for the principal competitors, this gave us an idea of what requirements we have to realize to be a real 
 competitors.
+![Benchmarking](deliverables/Benchmarking/Benchmarking-v1.png)
 
 ## Structure
 In this step, we define de Navigation of our app, using a Navigation Diagram, this helps us to realize the Wireframes and the final interfaces.
