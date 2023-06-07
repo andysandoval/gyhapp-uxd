@@ -26,18 +26,19 @@ Team member in charge of the main content that is going to be evaluated in the p
 ## Value Proposal Canvas
 
 The first step to finding the problem and a solution was to make a value proposition canvas, this gave us an idea to solve the problem previously mentioned.
-![Canvas](deliverables/Value Proposition Canvas/Value-Proposition-Canvas.png)
+
+![Canvas](https://github.com/andysandoval/gyhapp-uxd/blob/bfb87d9be67619e30e6477e0f290a011cd081872/deliverables/Value%20Proposition%20Canvas/Value-Proposition-Canvas.png)
 
 ## Scope
-## UX_Persona
+## UX_Person
 
 After defining our product strategy, is important to define a scope.  To help us, we create 3 UX_Persona, they were the ideal customer for our app and this helped us to define the scope of design.
-
-![UX-Person-1](deliverables/UX Person/UX Person 1.png)
-
-![UX-Person-2](deliverables/UX Person/UX Person 2.png)
-
-![UX-Person-3](deliverables/UX Person/UX Person 3.png)
+### UX Person 1
+![UX-Person-1](https://github.com/andysandoval/gyhapp-uxd/blob/bfb87d9be67619e30e6477e0f290a011cd081872/deliverables/UX%20Person/UX%20Person%201.png)
+### UX Person 2
+![UX-Person-2](https://github.com/andysandoval/gyhapp-uxd/blob/bfb87d9be67619e30e6477e0f290a011cd081872/deliverables/UX%20Person/UX%20Person%202.png)
+### UX Person 3
+![UX-Person-3](https://github.com/andysandoval/gyhapp-uxd/blob/bfb87d9be67619e30e6477e0f290a011cd081872/deliverables/UX%20Person/UX%20Person%203.png)
 
 ## User Journey Map
 
