@@ -26,6 +26,7 @@ Team member in charge of the main content that is going to be evaluated in the p
 ## Value Proposal Canvas
 
 The first step to finding the problem and a solution was to make a value proposition canvas, this gave us an idea to solve the problem previously mentioned.
+![Canvas](deliverables/Canvas/ValuePropositionCanvas.png)
 
 ## Scope
 ## UX_Persona
