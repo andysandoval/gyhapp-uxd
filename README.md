@@ -26,15 +26,18 @@ Team member in charge of the main content that is going to be evaluated in the p
 ## Value Proposal Canvas
 
 The first step to finding the problem and a solution was to make a value proposition canvas, this gave us an idea to solve the problem previously mentioned.
-![Canvas](deliverables/Canvas/ValuePropositionCanvas.png)
+![Canvas](deliverables/Value Proposition Canvas/Value-Proposition-Canvas.png)
 
 ## Scope
 ## UX_Persona
 
 After defining our product strategy, is important to define a scope.  To help us, we create 3 UX_Persona, they were the ideal customer for our app and this helped us to define the scope of design.
-![UX Person 1](deliverables/UX Person/UX Person 1.png)
-![UX Person 2](deliverables/UX Person/UX Person 2.png)
-![UX Person 3](deliverables/UX Person/UX Person 3.png)
+
+![UX-Person-1](deliverables/UX Person/UX Person 1.png)
+
+![UX-Person-2](deliverables/UX Person/UX Person 2.png)
+
+![UX-Person-3](deliverables/UX Person/UX Person 3.png)
 
 ## User Journey Map
 
