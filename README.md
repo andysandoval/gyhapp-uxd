@@ -26,9 +26,9 @@ Team member in charge of the main content that is going to be evaluated in the p
 - [Skeleton](#skeleton)
 - [Surface](#surface)
 
-
 ---
 ## Description
+
 ---
 ## Strategy
 ## Value Proposal Canvas
@@ -36,6 +36,7 @@ Team member in charge of the main content that is going to be evaluated in the p
 The first step to finding the problem and a solution was to make a value proposition canvas, this gave us an idea to solve the problem previously mentioned.
 
 ![Canvas](https://github.com/andysandoval/gyhapp-uxd/blob/bfb87d9be67619e30e6477e0f290a011cd081872/deliverables/Value%20Proposition%20Canvas/Value-Proposition-Canvas.png)
+
 ---
 ## Scope
 ## UX Person
@@ -57,18 +58,24 @@ By using the UX Persona tool, we were able to understand what are the main needs
 Then, we made a Benchmarking, looking for the principal competitors, this gave us an idea of what requirements we have to realize to be a real 
 competitors.
 ![Benchmarking](deliverables/Benchmarking/Benchmarking-v1.png)
+
 ---
 ## Structure
 In this step, we define de Navigation of our app, using a Navigation Diagram, this helps us to realize the Wireframes and the final interfaces.
+
 ---
 ## Skeleton
 You can view our initially created wireframes
+
 ---
 ## Surface
 The interfaces created were made from the wireframes shown above, plus changes were made to the views based on the comments and suggestions made in a heuristic cross evaluation, and we tried to include most of the suggestions and recommendations resulting in the interfaces shown below.
+
 ---
 ## Usability and accessibility
+
 ---
 ### Usability evaluation
+
 ---
 ### Accessibility
