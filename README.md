@@ -54,7 +54,8 @@ By using the UX Persona tool, we were able to understand what are the main needs
 
 ## Benchmarking 
 Then, we did a Benchmarking, looking for the main competitors, this gave us an idea of what requirements we have to meet to be a true competitor.
-![Benchmarking](https://github.com/andysandoval/gyhapp-uxd/blob/efc46408b8c28b6f5ba7e90f52fadcc77b4fc0c8/deliverables/Benchmarking/Benchmarcking.png)
+![Benchmarking](https://github.com/andysandoval/gyhapp-uxd/blob/2c3ca42973704d0d896dabaed50447038f3a6ea0/deliverables/Benchmarking/Benchmarking-V2.png)
+You can see our comparison in more detail [here](https://github.com/andysandoval/gyhapp-uxd/tree/2c3ca42973704d0d896dabaed50447038f3a6ea0/deliverables/Benchmarking)
 
 ---
 ## Structure
