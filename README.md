@@ -66,10 +66,12 @@ In this step, we define de Navigation of our app, using a Navigation Diagram, th
 ---
 ## Skeleton
 You can view our initially created wireframes
+![Wireframe](https://github.com/andysandoval/gyhapp-uxd/blob/e62ab6463f9c20d980fe0624b9b186493992d209/deliverables/Wireframes/Full-Wireframe.png)
 
 ---
 ## Surface
 The interfaces created were made from the wireframes shown above, plus changes were made to the views based on the comments and suggestions made in a heuristic cross evaluation, and we tried to include most of the suggestions and recommendations resulting in the interfaces shown below.
+![HD Interface](https://github.com/andysandoval/gyhapp-uxd/blob/e62ab6463f9c20d980fe0624b9b186493992d209/deliverables/Interfaces%20HD/Full-HD-interface.png)
 
 ---
 ## Usability and accessibility
