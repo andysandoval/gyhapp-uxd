@@ -60,6 +60,7 @@ You can see our comparison in more detail [here](https://github.com/andysandoval
 ---
 ## Structure
 In this step, we define de Navigation of our app, using a Navigation Diagram, this helps us to realize the Wireframes and the final interfaces.
+![Navigation Diagram](https://github.com/andysandoval/gyhapp-uxd/blob/5c27f9aaa74fb325d5769d629068149b4d6a0d80/deliverables/Navigation%20Diagram/Navigation%20Diagram.png)
 
 ---
 ## Skeleton
