@@ -73,3 +73,11 @@ You can see our wireframes in more detail [here](https://github.com/andysandoval
 The interfaces created were made from the wireframes shown above. This is not the final version of the product, there are still things to improve and add.
 ![HD Interface](https://github.com/andysandoval/gyhapp-uxd/blob/e62ab6463f9c20d980fe0624b9b186493992d209/deliverables/Interfaces%20HD/Full-HD-interface.png)
 You can see our HD interfaces in more detail [here](https://github.com/andysandoval/gyhapp-uxd/tree/efc46408b8c28b6f5ba7e90f52fadcc77b4fc0c8/deliverables/Interfaces%20HD)
+
+---
+## Usability and accessibility
+In the second design phase of the "GYH" project, improvements and new functionalities have been applied to our initial proposal. The results and aspects to consider are described in this section.
+
+### Usability evaluation
+
+### Accessibility
