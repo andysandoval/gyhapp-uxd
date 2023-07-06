@@ -79,5 +79,16 @@ You can see our HD interfaces in more detail [here](https://github.com/andysando
 In the second design phase of the "GYH" project, improvements and new functionalities have been applied to our initial proposal. The results and aspects to consider are described in this section.
 
 ### Usability evaluation
+In this section we will explain a bit about the heuristic evaluation process that was applied in our project. The main reason is that from a different point of view than ours, we may find flaws in the initial design or elements that are not clear to users, so we can correct these errors and apply solutions to implement before final delivery.
+Based on the above, we will show a list with the most severe problems found in our project:
+
 
 ### Accessibility
+As the culmination of our project, and aware of the possible difficulties that some people may face due to visual problems or illnesses, we have implemented additional measures and configurations with the aim of providing a better user experience. Thanks to these modifications, users will now enjoy greater freedom to customize and adapt the application according to their individual needs. 
+The assistive technologies that we have implemented are detailed below:
+- Lens Of Colors: Is focused on helping people with visual difficulties or disabilities, specifically those that affect color perception. This technology offers special adjustments and settings that allow users to modify the way colors are presented in an application or device.
+- Lens Of Font: It is focused on helping people with visual difficulties or disabilities related to reading texts. This technology provides advanced configuration options to adjust the font, size, and style of text in an application or device. Users can customize the typography to suit their visual needs, such as increasing the size of the text, selecting fonts for greater readability, or adjusting the spacing between letters and lines.
+
+Next we will show the implementation of these technologies to our project:
+
+
