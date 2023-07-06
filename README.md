@@ -25,6 +25,7 @@ Team member in charge of the main content that is going to be evaluated in the p
 - [Structure](#structure)
 - [Skeleton](#skeleton)
 - [Surface](#surface)
+- [Usability and accessibility](#usability-and-accessibility)
 
 ---
 ## Description
@@ -42,15 +43,15 @@ The first step to finding the problem and a solution was to make a value proposi
 After defining our product strategy, it is important to define a scope. To help us, we created 3 UX Persons, who are our ideal clients for our app and this helps us define the scope of the design.
 
 ### UX Person 1
-![UX-Person-1](https://github.com/andysandoval/gyhapp-uxd/blob/bfb87d9be67619e30e6477e0f290a011cd081872/deliverables/UX%20Person/UX%20Person%201.png)
+![UX-Person-1](https://github.com/andysandoval/gyhapp-uxd/blob/64aeff87fd75dd139f7f5172607570f01ebeed80/deliverables/UX%20Person/UX%20Person%201.png)
 ### UX Person 2
-![UX-Person-2](https://github.com/andysandoval/gyhapp-uxd/blob/bfb87d9be67619e30e6477e0f290a011cd081872/deliverables/UX%20Person/UX%20Person%202.png)
+![UX-Person-2](https://github.com/andysandoval/gyhapp-uxd/blob/64aeff87fd75dd139f7f5172607570f01ebeed80/deliverables/UX%20Person/UX%20Person%202.png)
 ### UX Person 3
-![UX-Person-3](https://github.com/andysandoval/gyhapp-uxd/blob/bfb87d9be67619e30e6477e0f290a011cd081872/deliverables/UX%20Person/UX%20Person%203.png)
+![UX-Person-3](https://github.com/andysandoval/gyhapp-uxd/blob/64aeff87fd75dd139f7f5172607570f01ebeed80/deliverables/UX%20Person/UX%20Person%203.png)
 
 ## User Journey Map
 By using the UX Persona tool, we were able to understand what are the main needs that our users will have and how they feel when a problem arises or something happens that they do not like. With the above observations, we concluded through a User Journey Map how our users will react when using the application.
-![CJM](https://github.com/andysandoval/gyhapp-uxd/blob/efc46408b8c28b6f5ba7e90f52fadcc77b4fc0c8/deliverables/User%20Journey%20Map/CJM.png)
+![CJM](https://github.com/andysandoval/gyhapp-uxd/blob/64aeff87fd75dd139f7f5172607570f01ebeed80/deliverables/User%20Journey%20Map/CJM.png)
 
 ## Benchmarking 
 Then, we did a Benchmarking, looking for the main competitors, this gave us an idea of what requirements we have to meet to be a true competitor.
@@ -70,17 +71,25 @@ You can see our wireframes in more detail [here](https://github.com/andysandoval
 
 ---
 ## Surface
-The interfaces created were made from the wireframes shown above. This is not the final version of the product, there are still things to improve and add.
-![HD Interface](https://github.com/andysandoval/gyhapp-uxd/blob/e62ab6463f9c20d980fe0624b9b186493992d209/deliverables/Interfaces%20HD/Full-HD-interface.png)
-You can see our HD interfaces in more detail [here](https://github.com/andysandoval/gyhapp-uxd/tree/efc46408b8c28b6f5ba7e90f52fadcc77b4fc0c8/deliverables/Interfaces%20HD)
+This is our proposal with the modifications and functionalities implemented in the design of our product.
+![HD Interface](https://github.com/andysandoval/gyhapp-uxd/blob/64aeff87fd75dd139f7f5172607570f01ebeed80/deliverables/Interfaces%20HD/Full%20HD%20interface%20Version%202/Full-HD-interface-Version-2.png)
+You can see our HD interfaces in more detail [here](https://github.com/andysandoval/gyhapp-uxd/tree/64aeff87fd75dd139f7f5172607570f01ebeed80/deliverables/Interfaces%20HD/Full%20HD%20interface%20Version%202)
+
+If you want to see our previous version click [here](https://github.com/andysandoval/gyhapp-uxd/blob/64aeff87fd75dd139f7f5172607570f01ebeed80/deliverables/Interfaces%20HD/Full%20HD%20interface/Full-HD-interface.png)
+
+If you wish, you can see our project in [figma](https://www.figma.com/file/3mFhKyL19zFzGrQw7YrOFd/Untitled?type=design&node-id=1%3A3&mode=design&t=wePt1B5boCzzPAwB-1)
 
 ---
 ## Usability and accessibility
 In the second design phase of the "GYH" project, improvements and new functionalities have been applied to our initial proposal. The results and aspects to consider are described in this section.
 
 ### Usability evaluation
-In this section we will explain a bit about the heuristic evaluation process that was applied in our project. The main reason is that from a different point of view than ours, we may find flaws in the initial design or elements that are not clear to users, so we can correct these errors and apply solutions to implement before final delivery.
+In this section we will talk a bit about the heuristic evaluation process that was applied in our project. The main reason is that from a different point of view than ours, we may find flaws in the initial design or elements that are not clear to users, so we can correct these errors and apply solutions to implement before final delivery.
 Based on the above, we will show a list with the most severe problems found in our project:
+- Highlight options from the menu.
+- Help guide to use the application
+- The Dictionary section it is not ordered alphabetically
+- Total change in the forum
 
 
 ### Accessibility
@@ -90,5 +99,13 @@ The assistive technologies that we have implemented are detailed below:
 - Lens Of Font: It is focused on helping people with visual difficulties or disabilities related to reading texts. This technology provides advanced configuration options to adjust the font, size, and style of text in an application or device. Users can customize the typography to suit their visual needs, such as increasing the size of the text, selecting fonts for greater readability, or adjusting the spacing between letters and lines.
 
 Next we will show the implementation of these technologies to our project:
+- Configuration screen: Here you can make the changes you think are convenient if you have visual problems.
+![Setting](https://github.com/andysandoval/gyhapp-uxd/blob/64aeff87fd75dd139f7f5172607570f01ebeed80/deliverables/Interfaces%20HD/Assistive%20technologies/Setting.png)
+
+- Lens Of Color:
+![Lens Of Color](https://github.com/andysandoval/gyhapp-uxd/blob/64aeff87fd75dd139f7f5172607570f01ebeed80/deliverables/Interfaces%20HD/Assistive%20technologies/Lens%20Of%20Color.png)
+
+- Lens Of Font
+![Lens Of Font](https://github.com/andysandoval/gyhapp-uxd/blob/64aeff87fd75dd139f7f5172607570f01ebeed80/deliverables/Interfaces%20HD/Assistive%20technologies/Lens%20Of%20Font.png)
 
 
